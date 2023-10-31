@@ -16,21 +16,27 @@ Calculation::Calculation(int  lifePointsPlayer1, int lifePointsPlayer2, int atta
 
 int Calculation::getDefensePointsPlayer1() {
     cout << "getDefensePointsPlayer1\n";
+    return 0;
 }
 int Calculation::getDefensePointsPlayer2() {
     cout << "getDefensePointsPlayer2\n";
+    return 0;
 }
 
 int Calculation::getAttackPointsPlayer1() {
     cout << "getAttackPointsPlayer1\n";
+    return 0;
 }
 int Calculation::getAttackPointsPlayer2() {
     cout << "getAttackPointsPlayer2\n";
+    return 0;
 }
 
 int Calculation::getLifePointsPlayer1() {
     cout << "getLifePointsPlayer1\n";
+    return 0;
 }
 int Calculation::getLifePointsPlayer2() {
     cout << "getLifePointsPlayer2\n";
+    return 0;
 }
