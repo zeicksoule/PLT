@@ -1,5 +1,5 @@
 #include "Cards.h"
-#include "CardTypes.h"
+#include "state.h"
 #include <iostream>
 
 using namespace std;
