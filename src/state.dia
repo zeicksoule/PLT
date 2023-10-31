@@ -1609,7 +1609,7 @@
         </dia:composite>
         <dia:composite type="umlattribute">
           <dia:attribute name="name">
-            <dia:string>#type#</dia:string>
+            <dia:string>#typeCarte#</dia:string>
           </dia:attribute>
           <dia:attribute name="type">
             <dia:string>#CardTypes#</dia:string>
@@ -1737,7 +1737,7 @@
             </dia:composite>
             <dia:composite type="umlparameter">
               <dia:attribute name="name">
-                <dia:string>#type #</dia:string>
+                <dia:string>#typeCarte#</dia:string>
               </dia:attribute>
               <dia:attribute name="type">
                 <dia:string>#CardTypes#</dia:string>
@@ -3257,7 +3257,7 @@
             <dia:string>#std::string#</dia:string>
           </dia:attribute>
           <dia:attribute name="value">
-            <dia:string>##</dia:string>
+            <dia:string>#"test"#</dia:string>
           </dia:attribute>
           <dia:attribute name="comment">
             <dia:string>##</dia:string>
