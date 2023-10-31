@@ -1,6 +1,7 @@
 #include "CardTypes.h"
 #include <iostream>
 using namespace std;
+using namespace state; 
 
 CardTypes::CardTypes(std::string type) {
     this->type = type;
