@@ -2,6 +2,7 @@
 #include <iostream>
 
 using namespace std;
+using namespace state;
 
 Decks::Decks(int id, std::vector<Cards> cardsInDeck, std::vector<Cards> cardsInHand, int numberOfCards) {//constructeur
     this->id = id;

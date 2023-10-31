@@ -2,6 +2,7 @@
 #include <iostream>
 
 using namespace std;
+using namespace state;
 
 Monsters::Monsters(int effet, int level, int attack, int defense, bool position) {
     this->effet = effet;
