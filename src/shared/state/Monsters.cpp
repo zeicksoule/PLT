@@ -4,7 +4,7 @@
 using namespace std;
 using namespace state;
 
-Monsters::Monsters(int effet, int level, int attack, int defense, bool position) {
+Monsters::Monsters(int effet, int level, int attack, int defense, bool position): public Cards  {
     this->effet = effet;
     this->level = level;
     this->attack = attack;
